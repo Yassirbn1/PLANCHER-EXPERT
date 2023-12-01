@@ -1,0 +1,47 @@
+﻿@page
+@model DOTNET_DEMO.Pages.nouvelle_demandeModel
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/site.css">
+    <title>Formulaire de Coût</title>
+
+</head>
+<body>
+    <h1>Formulaire de Coût</h1>
+
+    <div class="container mt-3">
+        <br />
+        
+        <br />
+        <form method="post" action="/Facture">
+            @Html.AntiForgeryToken()
+            <div class="form-group">
+                <label for="longueur">Longueur de la pièce (m):</label>
+                <input type="text" class="form-control" id="longueur" name="longueur" required>
+            </div>
+
+            <div class="form-group">
+                <label for="largeur">Largeur de la pièce (m):</label>
+                <input type="text" class="form-control" id="largeur" name="largeur" required>
+            </div>
+
+            <div class="form-group">
+                <label for="typeRevetement">Type de couvre-plancher:</label>
+                <select class="form-control" id="typeRevetement" name="nomProduit">
+                    @foreach (var dmd in Model.typesCouvrePlancher)
+                    {
+                        <option value=@dmd.type_couvre_plancher>@dmd.type_couvre_plancher</option>
+                    }
+
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Calculer</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,88 @@
+﻿@page
+@model DOTNET_DEMO.Pages.coordonneeModel
+@{
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tableau des Coûts</title>
+        <style>
+            table {
+                border-collapse: collapse;
+                width: 100%;
+            }
+
+            th, td {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+
+            th {
+                background-color: #f2f2f2;
+            }
+
+            .black-button {
+                background-color: #000;
+                color: #fff;
+                padding: 10px 20px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+        </style>
+    </head>
+    <body>
+
+        <h2>Tableau des Coûts</h2>
+
+        <table>
+            <tr>
+                <th>Type de couvre</th>
+                <th>Matériaux</th>
+                <th>Main d’œuvre</th>
+            </tr>
+            <tr>
+                <td>Tapis commercial</td>
+                <td>1,29 $ le m2</td>
+                <td>2,00 $ le m2</td>
+            </tr>
+            <tr>
+                <td>Tapis de qualité</td>
+                <td>3,99 $ le m2</td>
+                <td>2,25 $ le m2</td>
+            </tr>
+            <tr>
+                <td>Plancher de bois franc</td>
+                <td>3,49 $ le m2</td>
+                <td>3,25 $ le m2</td>
+            </tr>
+            <tr>
+                <td>Plancher flottant</td>
+                <td>1,99 $ le m2</td>
+                <td>2,25 $ le m2</td>
+            </tr>
+            <tr>
+                <td>Céramique</td>
+                <td>1,49 $ le m2</td>
+                <td>3,25 $ le m2</td>
+            </tr>
+        </table>
+
+        
+
+        <button class="black-button" onclick="passerCommande()">Passer la commande</button>
+
+        <script>
+            function passerCommande() {
+                // Remplacez "nouvelle_page.html" par le nom de votre nouvelle page
+                window.location.href = "nouvelle demande";
+            }
+        </script>
+
+    </body>
+    </html>
+
+
+}

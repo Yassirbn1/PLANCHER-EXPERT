@@ -1,0 +1,66 @@
+﻿@page
+@model DOTNET_DEMO.Pages.FactureModel
+@{
+}
+
+@{
+    if (Model.valid)
+    {
+
+        <h1>Facture</h1>
+
+        <hr />
+        <style>
+            table {
+                border-collapse: collapse;
+                width: 100%;
+            }
+
+            th, td {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+
+            th {
+                background-color: #f2f2f2;
+            }
+
+            .black-button {
+                background-color: #000;
+                color: #fff;
+                padding: 10px 20px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+        </style>
+        <table>
+            <tr>
+                <th>Type de couvre</th>
+                <th>Prix Matériaux</th>
+                <th>Prix Main d’œuvre</th>
+                <th>Largeur</th>
+                <th>Longeur</th>
+                <th>Superficie</th>
+                <th>Tax</th>
+                <th>Prix Total</th>
+            </tr>
+            <tr>
+                <th>@Model.nomProduit</th>
+                <th>@Model.prixMat DH</th>
+                <th>@Model.prixMainOv DH</th>
+                <th>@Model.d.Largeur M</th>
+                <th>@Model.d.Longueur M</th>
+                <th>@Model.superficie M2</th>
+                <th>@Model.d.TVA %</th>
+                <th>@Model.prixTotal DH</th>
+            </tr>
+
+        </table>
+    }
+    else
+    {
+        Response.Redirect("/Index");
+    }
+}

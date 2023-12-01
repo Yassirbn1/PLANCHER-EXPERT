@@ -1,0 +1,44 @@
+﻿@page
+@model DOTNET_DEMO.Pages.ContactModel
+@{
+}
+
+<link rel="stylesheet" type="text/css" href="~/css/contact-style.css">
+
+<body class="contact-body">
+    <h1 class="contact-heading">Contactez-Nous</h1>
+
+    @if (Model.A == "")
+    {
+        Model.A = "Bonjour";
+        <p>@Model.A</p>
+    }
+
+    @if (Model.hasContact)
+    {
+        <p>Bonjour @Model.name</p>
+        <p>Vous êtes joignable par l'email @Model.email</p>
+        <p>Votre message <b>@Model.msg</b> </p>
+        <p>a été bien reçu</p>
+    }
+
+    <hr />
+    <div class="container1">
+        <form method="post" class="contact-form">
+            <label for="name"> Votre Nom :</label>
+            <input id="name" name="name" type="text" /><br />
+
+            <label for="email"> Votre Email :</label>
+            <input id="email" name="email" type="email" /><br />
+
+            <label for="msg">Votre message :</label>
+            <textarea name="msg" id="msg"></textarea> <br />
+
+            <input type="submit" name="sendForm" class="submit-btn1" />
+        </form>
+    </div>
+
+    <center>
+        <img src="~/Media/download.png" alt="EMSI" class="emsi-image" />
+    </center>
+</body>

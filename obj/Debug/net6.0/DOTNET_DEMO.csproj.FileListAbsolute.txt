@@ -1,0 +1,152 @@
+C:\Users\chaim\source\repos\DOTNET_DEMO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chaim\source\repos\DOTNET_DEMO\bin\Debug\net6.0\appsettings.json
+C:\Users\chaim\source\repos\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.staticwebassets.runtime.json
+C:\Users\chaim\source\repos\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.exe
+C:\Users\chaim\source\repos\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.deps.json
+C:\Users\chaim\source\repos\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.runtimeconfig.json
+C:\Users\chaim\source\repos\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.dll
+C:\Users\chaim\source\repos\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.pdb
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.csproj.AssemblyReference.cache
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.AssemblyInfoInputs.cache
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.AssemblyInfo.cs
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.RazorAssemblyInfo.cache
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.RazorAssemblyInfo.cs
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\bundle\DOTNET_DEMO.styles.css
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\projectbundle\DOTNET_DEMO.bundle.scp.css
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.dll
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\refint\DOTNET_DEMO.dll
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.pdb
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.genruntimeconfig.cache
+C:\Users\chaim\source\repos\DOTNET_DEMO\obj\Debug\net6.0\ref\DOTNET_DEMO.dll
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\bin\Debug\net6.0\appsettings.json
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.staticwebassets.runtime.json
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.exe
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.deps.json
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.runtimeconfig.json
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.dll
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.pdb
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.AssemblyInfoInputs.cache
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.AssemblyInfo.cs
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.RazorAssemblyInfo.cache
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.RazorAssemblyInfo.cs
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.DOTNET_DEMO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.build.DOTNET_DEMO.props
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DOTNET_DEMO.props
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DOTNET_DEMO.props
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\bundle\DOTNET_DEMO.styles.css
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\projectbundle\DOTNET_DEMO.bundle.scp.css
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.dll
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\refint\DOTNET_DEMO.dll
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.pdb
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.genruntimeconfig.cache
+C:\Users\ACHRAF\Downloads\DOTNET_DEMO\obj\Debug\net6.0\ref\DOTNET_DEMO.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.staticwebassets.runtime.json
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.exe
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.deps.json
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.runtimeconfig.json
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.pdb
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.AssemblyInfo.cs
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.DOTNET_DEMO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.build.DOTNET_DEMO.props
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DOTNET_DEMO.props
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DOTNET_DEMO.props
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\bundle\DOTNET_DEMO.styles.css
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\projectbundle\DOTNET_DEMO.bundle.scp.css
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\refint\DOTNET_DEMO.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.pdb
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.genruntimeconfig.cache
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\ref\DOTNET_DEMO.dll
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.staticwebassets.runtime.json
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.exe
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.deps.json
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.runtimeconfig.json
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.dll
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\bin\Debug\net6.0\DOTNET_DEMO.pdb
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.AssemblyInfo.cs
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.DOTNET_DEMO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.build.DOTNET_DEMO.props
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DOTNET_DEMO.props
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DOTNET_DEMO.props
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\bundle\DOTNET_DEMO.styles.css
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\scopedcss\projectbundle\DOTNET_DEMO.bundle.scp.css
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.dll
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\refint\DOTNET_DEMO.dll
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.pdb
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.genruntimeconfig.cache
+C:\Users\HP\Desktop\EMSI 4eme\.net\DOTNET_DEMO\obj\Debug\net6.0\ref\DOTNET_DEMO.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DOTNET_DEMO\obj\Debug\net6.0\DOTNET_DEMO.csproj.CopyComplete
